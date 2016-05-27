@@ -10,7 +10,7 @@ Both dataset consist of three tab-seperated files:
 
 - `relations.txt`: List of relations, formatted as `relation_id \tab relation_name`
 
-- `triples.txt`: Contains known facts, formatted as `relation_id \tab entity_id1 \tab entity_id2`
+- `triples.txt`: List of known facts, formatted as `relation_id \tab entity_id1 \tab entity_id2`
 
   - means `entity_id1` has `relation_id` relation with `entity_id2` 
 
