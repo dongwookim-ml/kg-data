@@ -1,0 +1,14 @@
+0	Brazil
+1	Burma
+2	China
+3	Cuba
+4	Egypt
+5	India
+6	Indonesia
+7	Israel
+8	Jordan
+9	Netherlands
+10	Poland
+11	USSR
+12	UK
+13	USA
